@@ -1,1 +1,0 @@
-cmd /k StartServer.bat
