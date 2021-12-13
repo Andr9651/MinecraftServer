@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2021-12-13 21:36:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-12-02 21:57:11 +0100"
@@ -705,6 +711,7 @@
       "minecraft:spider": "2021-12-02 22:36:21 +0100",
       "minecraft:creeper": "2021-12-02 22:40:32 +0100",
       "minecraft:slime": "2021-12-13 00:47:33 +0100",
+      "minecraft:witch": "2021-12-13 21:49:44 +0100",
       "minecraft:husk": "2021-12-09 22:51:54 +0100",
       "minecraft:cave_spider": "2021-12-02 22:53:13 +0100",
       "minecraft:piglin": "2021-12-10 23:23:55 +0100",
@@ -748,6 +755,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-02 22:52:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2021-12-13 23:21:19 +0100"
     },
     "done": true
   },
@@ -1417,6 +1430,7 @@
       "minecraft:forest": "2021-12-02 21:37:50 +0100",
       "minecraft:lush_caves": "2021-12-11 00:55:55 +0100",
       "minecraft:deep_cold_ocean": "2021-12-11 01:42:21 +0100",
+      "minecraft:ice_spikes": "2021-12-13 22:09:57 +0100",
       "minecraft:frozen_ocean": "2021-12-11 01:43:18 +0100",
       "minecraft:desert": "2021-12-09 22:49:35 +0100",
       "minecraft:deep_frozen_ocean": "2021-12-11 01:43:09 +0100",
@@ -1424,11 +1438,13 @@
       "minecraft:jungle": "2021-12-11 00:51:45 +0100",
       "minecraft:old_growth_spruce_taiga": "2021-12-11 23:57:03 +0100",
       "minecraft:snowy_beach": "2021-12-11 01:44:10 +0100",
+      "minecraft:windswept_savanna": "2021-12-13 22:12:21 +0100",
       "minecraft:warm_ocean": "2021-12-09 22:49:08 +0100",
       "minecraft:deep_lukewarm_ocean": "2021-12-02 21:45:27 +0100",
       "minecraft:flower_forest": "2021-12-13 00:23:39 +0100",
       "minecraft:old_growth_birch_forest": "2021-12-02 21:36:08 +0100",
       "minecraft:meadow": "2021-12-11 01:26:19 +0100",
+      "minecraft:windswept_gravelly_hills": "2021-12-13 21:56:19 +0100",
       "minecraft:savanna": "2021-12-02 21:37:42 +0100",
       "minecraft:plains": "2021-12-02 21:37:27 +0100"
     },
@@ -1599,6 +1615,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2021-12-07 23:19:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2021-12-13 23:21:19 +0100"
     },
     "done": true
   },
@@ -2988,6 +3010,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2021-12-10 23:27:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2021-12-13 22:17:38 +0100"
     },
     "done": true
   },
