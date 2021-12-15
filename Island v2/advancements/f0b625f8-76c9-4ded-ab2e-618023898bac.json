@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2021-12-15 23:29:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-02 21:58:55 +0100"
@@ -452,6 +458,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-02 22:20:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2021-12-15 23:29:21 +0100"
     },
     "done": true
   },
@@ -985,6 +997,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-12 00:19:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2021-12-15 23:29:21 +0100"
     },
     "done": true
   },
@@ -1677,6 +1695,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2021-12-02 22:24:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-12-15 23:58:20 +0100"
     },
     "done": true
   },
