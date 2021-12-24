@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-12-24 11:47:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-12-22 22:28:01 +0100"
@@ -182,6 +188,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/stone": {
     "criteria": {
       "has_stairs": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-12-24 14:00:03 +0100"
     },
     "done": true
   },
@@ -350,9 +362,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
     "criteria": {
-      "has_dye": "2021-12-24 03:14:23 +0100"
+      "has_dye": "2021-12-24 03:14:23 +0100",
+      "has_block": "2021-12-24 11:56:00 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -633,6 +646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2021-12-24 14:00:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-02 22:22:50 +0100"
@@ -847,6 +866,7 @@
       "minecraft:magma_cube": "2021-12-23 14:02:00 +0100",
       "minecraft:spider": "2021-12-02 22:19:10 +0100",
       "minecraft:creeper": "2021-12-02 22:53:21 +0100",
+      "minecraft:slime": "2021-12-24 11:16:10 +0100",
       "minecraft:zombified_piglin": "2021-12-22 22:14:12 +0100",
       "minecraft:wither_skeleton": "2021-12-23 14:12:09 +0100",
       "minecraft:cave_spider": "2021-12-02 22:54:30 +0100",
@@ -920,6 +940,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2021-12-02 22:46:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-12-24 11:47:35 +0100"
     },
     "done": true
   },
@@ -1156,6 +1182,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-12-23 14:48:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-12-24 11:16:17 +0100"
     },
     "done": true
   },
@@ -1595,6 +1627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-12-24 11:16:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-12-02 22:11:23 +0100"
@@ -1626,6 +1664,7 @@
       "minecraft:dark_forest": "2021-12-02 23:02:31 +0100",
       "minecraft:sparse_jungle": "2021-12-11 22:20:11 +0100",
       "minecraft:river": "2021-12-12 00:20:11 +0100",
+      "minecraft:lukewarm_ocean": "2021-12-24 12:52:41 +0100",
       "minecraft:stony_shore": "2021-12-02 23:02:45 +0100",
       "minecraft:cold_ocean": "2021-12-12 00:02:09 +0100",
       "minecraft:forest": "2021-12-02 21:45:22 +0100",
@@ -1738,6 +1777,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/weathered_cut_copper": {
     "criteria": {
       "has_stairs": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2021-12-24 14:00:03 +0100"
     },
     "done": true
   },
@@ -2247,9 +2292,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
     "criteria": {
-      "has_dye": "2021-12-24 03:14:23 +0100"
+      "has_dye": "2021-12-24 03:14:23 +0100",
+      "has_block": "2021-12-24 11:55:52 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
@@ -2290,6 +2336,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2021-12-11 23:25:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-12-24 14:00:03 +0100"
     },
     "done": true
   },
@@ -2364,7 +2416,8 @@
       "rotten_flesh": "2021-12-02 22:27:38 +0100",
       "cookie": "2021-12-11 22:51:35 +0100",
       "glow_berries": "2021-12-02 22:44:00 +0100",
-      "cooked_salmon": "2021-12-12 00:56:17 +0100"
+      "cooked_salmon": "2021-12-12 00:56:17 +0100",
+      "carrot": "2021-12-24 11:46:36 +0100"
     },
     "done": false
   },
@@ -2748,6 +2801,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2021-12-12 00:30:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-12-24 14:00:03 +0100"
     },
     "done": true
   },
@@ -3218,6 +3277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2021-12-24 14:00:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/slabs/brick_slab": {
     "criteria": {
       "has_block": "2021-12-24 03:14:23 +0100",
@@ -3295,6 +3360,12 @@
   "vanillatweaks:more_mob_heads": {
     "criteria": {
       "tick": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2021-12-24 12:00:10 +0100"
     },
     "done": true
   },
@@ -3406,6 +3477,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-12-02 21:58:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-12-24 11:16:17 +0100"
     },
     "done": true
   },
@@ -3635,6 +3712,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-12-02 22:58:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2021-12-24 12:15:04 +0100"
     },
     "done": true
   },
@@ -3877,6 +3960,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-12-02 22:17:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-12-24 11:47:35 +0100"
     },
     "done": true
   },
