@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-12-27 21:35:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-12-02 21:58:36 +0100"
@@ -506,6 +512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2021-12-27 20:06:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2021-12-02 22:21:38 +0100"
@@ -682,6 +694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2021-12-27 20:06:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-12-02 22:19:50 +0100"
@@ -691,6 +709,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2021-12-11 23:26:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-12-27 21:38:14 +0100"
     },
     "done": true
   },
@@ -875,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-12-27 21:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2021-12-23 14:11:33 +0100",
@@ -885,6 +915,7 @@
       "minecraft:spider": "2021-12-02 22:19:10 +0100",
       "minecraft:creeper": "2021-12-02 22:53:21 +0100",
       "minecraft:slime": "2021-12-24 11:16:10 +0100",
+      "minecraft:phantom": "2021-12-27 17:05:56 +0100",
       "minecraft:zombified_piglin": "2021-12-22 22:14:12 +0100",
       "minecraft:wither_skeleton": "2021-12-23 14:12:09 +0100",
       "minecraft:cave_spider": "2021-12-02 22:54:30 +0100",
@@ -1039,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-12-27 20:06:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-12-02 22:25:08 +0100"
@@ -1048,6 +1085,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-12-02 22:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2021-12-27 20:04:40 +0100"
     },
     "done": true
   },
@@ -1112,6 +1155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2021-12-27 20:04:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/slabs/polished_diorite_slab": {
     "criteria": {
       "has_block": "2021-12-24 03:14:23 +0100",
@@ -1140,6 +1189,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/polished_deepslate": {
     "criteria": {
       "has_stairs": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-12-27 20:06:08 +0100"
     },
     "done": true
   },
@@ -1415,6 +1470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-12-27 21:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2021-12-02 22:21:38 +0100"
@@ -1533,6 +1594,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2021-12-02 22:39:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-12-27 21:38:14 +0100"
     },
     "done": true
   },
@@ -1687,6 +1754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2021-12-27 20:06:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2021-12-11 23:59:54 +0100",
@@ -1829,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-12-27 21:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-12-02 21:58:36 +0100"
@@ -1859,9 +1938,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2021-12-27 20:04:40 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_diorite": {
     "criteria": {
       "has_slab": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2021-12-27 20:46:12 +0100"
     },
     "done": true
   },
@@ -1910,6 +2001,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2021-12-12 00:08:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-12-27 20:06:07 +0100"
     },
     "done": true
   },
@@ -1982,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-12-27 21:17:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2021-12-23 13:48:26 +0100"
@@ -2036,6 +2139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2021-12-27 20:04:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-12-02 22:11:23 +0100"
@@ -2060,6 +2169,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-12-27 20:06:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-12-27 21:38:14 +0100"
+    },
+    "done": true
+  },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
     "criteria": {
       "has_dye": "2021-12-24 03:14:23 +0100"
@@ -2070,6 +2191,12 @@
     "criteria": {
       "has_block": "2021-12-24 03:14:23 +0100",
       "has_slab": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2021-12-27 20:06:08 +0100"
     },
     "done": true
   },
@@ -2284,6 +2411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2021-12-27 20:06:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2021-12-02 22:30:48 +0100"
@@ -2311,6 +2444,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/stone_bricks": {
     "criteria": {
       "has_stairs": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2021-12-27 20:04:40 +0100"
     },
     "done": true
   },
@@ -2655,6 +2794,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-12-26 13:23:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2021-12-27 20:04:40 +0100"
     },
     "done": true
   },
@@ -3107,6 +3252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2021-12-27 20:04:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-23 14:48:26 +0100"
@@ -3552,6 +3703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2021-12-27 20:06:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-02 22:22:50 +0100"
@@ -3691,9 +3848,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2021-12-27 20:04:40 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/exposed_cut_copper": {
     "criteria": {
       "has_stairs": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2021-12-27 20:06:08 +0100"
     },
     "done": true
   },
@@ -3791,6 +3960,12 @@
     "criteria": {
       "has_fan": "2021-12-24 03:14:23 +0100",
       "has_coral": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-12-27 21:38:14 +0100"
     },
     "done": true
   },
