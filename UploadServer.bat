@@ -1,4 +1,4 @@
 git add .
-git commit -m "Updated server to 1.18.1"
+git commit -m "Setup whitelist"
 git push -u origin main
 pause
