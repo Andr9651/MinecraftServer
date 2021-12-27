@@ -1,4 +1,4 @@
 git add .
-git commit -m %username%_%date%_%time: =0%
+git commit -m "Updated server to 1.18.1"
 git push -u origin main
 pause
