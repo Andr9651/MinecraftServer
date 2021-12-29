@@ -476,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2021-12-28 23:03:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-02 22:22:50 +0100"
@@ -1347,6 +1353,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/slabs/acacia_planks": {
     "criteria": {
       "has_slab": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-12-28 23:01:13 +0100"
     },
     "done": true
   },
@@ -3840,6 +3852,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-12 01:33:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-12-28 23:01:13 +0100"
     },
     "done": true
   },
