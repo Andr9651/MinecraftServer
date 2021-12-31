@@ -393,6 +393,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-12-31 01:19:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2021-12-02 22:33:43 +0100"
@@ -1244,9 +1250,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
     "criteria": {
-      "has_dye": "2021-12-28 21:37:42 +0100"
+      "has_dye": "2021-12-28 21:37:42 +0100",
+      "has_block": "2021-12-31 00:32:09 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
@@ -1646,9 +1653,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
     "criteria": {
-      "has_dye": "2021-12-28 21:37:42 +0100"
+      "has_dye": "2021-12-28 21:37:42 +0100",
+      "has_block": "2021-12-31 00:31:29 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
