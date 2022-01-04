@@ -194,9 +194,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
     "criteria": {
-      "has_dye": "2021-12-28 21:37:42 +0100"
+      "has_dye": "2021-12-28 21:37:42 +0100",
+      "has_block": "2022-01-03 23:39:14 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -682,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2022-01-04 00:07:43 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/bricks": {
     "criteria": {
       "has_stairs": "2021-12-28 20:49:26 +0100"
@@ -715,6 +722,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/purpur_block": {
     "criteria": {
       "has_stairs": "2021-12-28 20:49:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2022-01-04 00:07:43 +0100"
     },
     "done": true
   },
@@ -1261,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2022-01-04 00:10:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2021-12-07 22:57:10 +0100"
@@ -1725,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-01-01 23:34:52 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/red_nether_bricks": {
     "criteria": {
       "has_slab": "2021-12-28 20:49:26 +0100"
@@ -2095,6 +2120,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/oxidized_cut_copper": {
     "criteria": {
       "has_stairs": "2021-12-28 20:49:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-01-03 23:46:44 +0100"
     },
     "done": true
   },
@@ -3492,6 +3523,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-12-09 00:24:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2022-01-03 23:26:53 +0100"
     },
     "done": true
   },

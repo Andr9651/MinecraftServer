@@ -1175,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-01-04 23:36:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2021-12-27 20:06:08 +0100"
@@ -1492,6 +1498,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2021-12-26 20:03:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-01-04 23:53:49 +0100"
     },
     "done": true
   },
@@ -2630,6 +2642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-01-04 23:36:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2021-12-22 23:14:27 +0100"
@@ -2860,6 +2878,7 @@
       "minecraft:witch": "2021-12-27 23:54:37 +0100",
       "minecraft:wither_skeleton": "2021-12-23 14:12:09 +0100",
       "minecraft:cave_spider": "2021-12-02 22:54:30 +0100",
+      "minecraft:piglin": "2022-01-04 23:21:31 +0100",
       "minecraft:enderman": "2021-12-02 22:24:26 +0100",
       "minecraft:vex": "2021-12-30 15:54:05 +0100",
       "minecraft:zombie": "2021-12-02 22:23:24 +0100",
@@ -3886,6 +3905,7 @@
     "criteria": {
       "cooked_porkchop": "2021-12-02 22:53:42 +0100",
       "cooked_beef": "2021-12-12 02:38:52 +0100",
+      "porkchop": "2022-01-05 00:22:39 +0100",
       "apple": "2021-12-11 22:51:03 +0100",
       "cooked_cod": "2021-12-12 00:37:10 +0100",
       "bread": "2021-12-02 23:01:46 +0100",
@@ -3893,6 +3913,7 @@
       "cookie": "2021-12-11 22:51:35 +0100",
       "glow_berries": "2021-12-02 22:44:00 +0100",
       "melon_slice": "2021-12-30 15:17:21 +0100",
+      "cooked_chicken": "2022-01-05 00:29:56 +0100",
       "cooked_salmon": "2021-12-12 00:56:17 +0100",
       "carrot": "2021-12-24 11:46:36 +0100"
     },
@@ -4508,6 +4529,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2021-12-11 22:36:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-01-04 23:53:49 +0100"
     },
     "done": true
   },
