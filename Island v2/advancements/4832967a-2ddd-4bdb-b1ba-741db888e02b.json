@@ -1068,6 +1068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-01-06 00:23:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2021-12-08 22:01:40 +0100"
@@ -2783,6 +2789,7 @@
       "minecraft:spider": "2021-12-02 22:36:21 +0100",
       "minecraft:creeper": "2021-12-02 22:40:32 +0100",
       "minecraft:slime": "2021-12-13 00:47:33 +0100",
+      "minecraft:phantom": "2022-01-06 00:01:11 +0100",
       "minecraft:witch": "2021-12-13 21:49:44 +0100",
       "minecraft:husk": "2021-12-09 22:51:54 +0100",
       "minecraft:cave_spider": "2021-12-02 22:53:13 +0100",
