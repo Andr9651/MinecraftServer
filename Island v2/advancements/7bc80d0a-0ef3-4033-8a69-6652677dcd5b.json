@@ -199,6 +199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2022-01-05 14:18:44 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_deepslate": {
     "criteria": {
       "has_slab": "2021-12-24 03:14:23 +0100"
@@ -1928,6 +1934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2022-01-05 14:18:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2021-12-02 21:58:36 +0100"
@@ -2720,6 +2732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-01-05 14:19:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2021-12-23 13:59:54 +0100"
@@ -2871,6 +2889,7 @@
       "minecraft:magma_cube": "2021-12-23 14:02:00 +0100",
       "minecraft:spider": "2021-12-02 22:19:10 +0100",
       "minecraft:creeper": "2021-12-02 22:53:21 +0100",
+      "minecraft:wither": "2022-01-05 10:06:50 +0100",
       "minecraft:slime": "2021-12-24 11:16:10 +0100",
       "minecraft:evoker": "2021-12-30 15:53:44 +0100",
       "minecraft:phantom": "2021-12-27 17:05:56 +0100",
@@ -3864,6 +3883,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-01-05 10:05:56 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/deepslate_tiles": {
     "criteria": {
       "has_slab": "2021-12-24 03:14:23 +0100"
@@ -3907,6 +3932,7 @@
       "cooked_beef": "2021-12-12 02:38:52 +0100",
       "porkchop": "2022-01-05 00:22:39 +0100",
       "apple": "2021-12-11 22:51:03 +0100",
+      "potato": "2022-01-05 13:28:50 +0100",
       "cooked_cod": "2021-12-12 00:37:10 +0100",
       "bread": "2021-12-02 23:01:46 +0100",
       "rotten_flesh": "2021-12-02 22:27:38 +0100",
@@ -4070,6 +4096,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/nether_bricks": {
     "criteria": {
       "has_stairs": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-01-05 10:06:51 +0100"
     },
     "done": true
   },
@@ -4556,6 +4588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2022-01-05 13:11:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/slabs/granite_slab": {
     "criteria": {
       "has_block": "2021-12-24 03:14:23 +0100",
@@ -4668,6 +4706,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-12-02 22:17:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-01-05 14:19:27 +0100"
     },
     "done": true
   },
