@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-01-07 14:31:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-12-27 16:59:58 +0100"
@@ -419,6 +425,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2021-12-27 17:38:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-01-07 14:31:40 +0100"
     },
     "done": true
   },
@@ -753,6 +765,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-27 17:20:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2022-01-07 14:40:49 +0100"
     },
     "done": true
   },
@@ -1625,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-01-07 14:31:40 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_diorite": {
     "criteria": {
       "has_slab": "2021-12-27 16:59:00 +0100"
@@ -2277,6 +2301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2022-01-07 14:40:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2021-12-27 17:18:46 +0100"
@@ -2322,6 +2352,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2021-12-27 20:04:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-01-07 14:31:40 +0100"
     },
     "done": true
   },
@@ -2423,6 +2459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2022-01-07 14:40:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2021-12-27 17:04:41 +0100"
@@ -2492,6 +2534,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2021-12-27 17:08:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-01-07 14:40:49 +0100"
     },
     "done": true
   },
@@ -2574,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-01-07 14:31:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-27 17:18:58 +0100"
@@ -2583,6 +2637,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-12-27 17:04:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2022-01-07 14:40:49 +0100"
     },
     "done": true
   },
@@ -3117,6 +3177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-01-07 14:40:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/slabs/granite_slab": {
     "criteria": {
       "has_block": "2021-12-27 16:59:00 +0100",
@@ -3154,9 +3220,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-01-07 14:31:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2021-12-30 22:39:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-01-07 14:40:49 +0100"
     },
     "done": true
   },
@@ -3381,6 +3459,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-12-27 21:20:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-01-07 14:40:49 +0100"
     },
     "done": true
   },
