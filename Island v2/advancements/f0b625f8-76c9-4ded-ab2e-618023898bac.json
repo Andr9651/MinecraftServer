@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-01-09 01:12:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-12-10 23:55:27 +0100"
@@ -487,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-01-09 01:12:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2021-12-11 00:49:51 +0100"
@@ -520,6 +532,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2021-12-11 01:18:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2022-01-09 02:48:34 +0100"
     },
     "done": true
   },
@@ -923,6 +941,7 @@
       "minecraft:cave_spider": "2021-12-02 22:50:02 +0100",
       "minecraft:piglin": "2021-12-10 23:06:33 +0100",
       "minecraft:enderman": "2021-12-02 22:19:25 +0100",
+      "minecraft:stray": "2022-01-09 00:52:26 +0100",
       "minecraft:zombie": "2021-12-02 22:30:58 +0100",
       "minecraft:drowned": "2021-12-11 01:02:00 +0100",
       "minecraft:zombie_villager": "2021-12-28 22:44:49 +0100"
@@ -1910,6 +1929,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2021-12-11 01:57:13 +0100",
+      "minecraft:old_growth_pine_taiga": "2022-01-09 01:12:22 +0100",
       "minecraft:taiga": "2021-12-11 01:39:02 +0100",
       "minecraft:deep_ocean": "2021-12-02 21:42:37 +0100",
       "minecraft:frozen_river": "2021-12-11 01:46:36 +0100",
@@ -1928,6 +1948,7 @@
       "minecraft:snowy_taiga": "2021-12-11 01:46:30 +0100",
       "minecraft:dripstone_caves": "2021-12-11 00:49:37 +0100",
       "minecraft:grove": "2021-12-11 01:52:56 +0100",
+      "minecraft:jagged_peaks": "2022-01-09 01:05:26 +0100",
       "minecraft:cold_ocean": "2021-12-11 01:39:31 +0100",
       "minecraft:forest": "2021-12-02 21:37:51 +0100",
       "minecraft:lush_caves": "2021-12-07 23:42:24 +0100",
@@ -2784,6 +2805,7 @@
       "apple": "2021-12-08 23:35:41 +0100",
       "potato": "2021-12-13 23:20:13 +0100",
       "bread": "2021-12-02 22:58:28 +0100",
+      "golden_apple": "2022-01-09 01:25:03 +0100",
       "rotten_flesh": "2021-12-02 23:08:26 +0100",
       "suspicious_stew": "2021-12-11 01:11:11 +0100",
       "glow_berries": "2021-12-07 23:43:13 +0100",
@@ -2947,6 +2969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-01-09 01:12:17 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/jungle_planks": {
     "criteria": {
       "has_stairs": "2021-12-28 20:49:31 +0100"
@@ -2998,6 +3026,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2021-12-28 22:10:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-01-09 01:12:17 +0100"
     },
     "done": true
   },
@@ -3541,6 +3575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-01-09 01:15:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-12-02 21:58:59 +0100"
@@ -3849,6 +3889,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-02 21:58:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-01-09 01:12:17 +0100"
     },
     "done": true
   },
@@ -4197,6 +4243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-01-09 01:15:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2021-12-10 23:56:28 +0100"
@@ -4514,6 +4566,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-07 23:19:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-01-09 01:12:17 +0100"
     },
     "done": true
   },
