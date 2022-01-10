@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-01-10 23:59:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2021-12-02 22:46:59 +0100"
@@ -4042,6 +4048,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/sandstone": {
     "criteria": {
       "has_stairs": "2021-12-24 03:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2022-01-10 23:59:07 +0100"
     },
     "done": true
   },
