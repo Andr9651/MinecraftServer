@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-01-12 00:03:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2021-12-09 22:55:09 +0100"
@@ -976,6 +982,12 @@
     "criteria": {
       "has_block": "2021-12-28 20:49:26 +0100",
       "has_slab": "2021-12-28 20:49:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-01-11 23:23:45 +0100"
     },
     "done": true
   },
@@ -2712,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-01-11 23:21:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-12-02 22:13:39 +0100"
@@ -2999,6 +3017,7 @@
       "minecraft:magma_cube": "2021-12-10 23:35:50 +0100",
       "minecraft:spider": "2021-12-02 22:36:21 +0100",
       "minecraft:creeper": "2021-12-02 22:40:32 +0100",
+      "minecraft:wither": "2022-01-11 23:36:01 +0100",
       "minecraft:slime": "2021-12-13 00:47:33 +0100",
       "minecraft:phantom": "2022-01-06 00:01:11 +0100",
       "minecraft:zombified_piglin": "2022-01-07 23:28:15 +0100",
@@ -4065,6 +4084,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2022-01-12 00:03:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-12-02 21:57:10 +0100"
@@ -4086,6 +4111,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-12-02 22:40:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-01-11 23:34:56 +0100"
     },
     "done": true
   },
@@ -4327,6 +4358,18 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/nether_bricks": {
     "criteria": {
       "has_stairs": "2021-12-28 20:49:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-01-11 23:36:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2022-01-11 23:21:32 +0100"
     },
     "done": true
   },
