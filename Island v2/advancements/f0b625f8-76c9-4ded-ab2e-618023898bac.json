@@ -176,9 +176,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
     "criteria": {
-      "has_dye": "2021-12-28 20:49:31 +0100"
+      "has_dye": "2021-12-28 20:49:31 +0100",
+      "has_block": "2022-01-12 23:59:17 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
@@ -1298,9 +1299,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
     "criteria": {
-      "has_dye": "2021-12-28 20:49:31 +0100"
+      "has_dye": "2021-12-28 20:49:31 +0100",
+      "has_block": "2022-01-12 23:41:21 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
@@ -3454,19 +3456,23 @@
       "minecraft:snowy_taiga": "2021-12-11 01:46:30 +0100",
       "minecraft:dripstone_caves": "2021-12-11 00:49:37 +0100",
       "minecraft:grove": "2021-12-11 01:52:56 +0100",
+      "minecraft:swamp": "2022-01-13 00:13:58 +0100",
       "minecraft:jagged_peaks": "2022-01-09 01:05:26 +0100",
       "minecraft:cold_ocean": "2021-12-11 01:39:31 +0100",
       "minecraft:forest": "2021-12-02 21:37:51 +0100",
       "minecraft:lush_caves": "2021-12-07 23:42:24 +0100",
       "minecraft:deep_cold_ocean": "2021-12-11 01:42:22 +0100",
+      "minecraft:ice_spikes": "2022-01-13 00:04:00 +0100",
       "minecraft:frozen_ocean": "2021-12-11 01:43:20 +0100",
       "minecraft:desert": "2021-12-11 02:18:57 +0100",
       "minecraft:deep_frozen_ocean": "2021-12-11 01:43:10 +0100",
       "minecraft:ocean": "2021-12-02 21:40:39 +0100",
       "minecraft:jungle": "2021-12-08 00:07:17 +0100",
+      "minecraft:old_growth_spruce_taiga": "2022-01-13 00:29:01 +0100",
       "minecraft:snowy_beach": "2021-12-11 01:44:20 +0100",
       "minecraft:warm_ocean": "2021-12-11 02:19:20 +0100",
       "minecraft:deep_lukewarm_ocean": "2021-12-11 01:00:32 +0100",
+      "minecraft:frozen_peaks": "2022-01-13 01:03:43 +0100",
       "minecraft:old_growth_birch_forest": "2021-12-02 21:35:57 +0100",
       "minecraft:meadow": "2021-12-11 01:25:45 +0100",
       "minecraft:savanna": "2021-12-02 21:37:44 +0100",
@@ -3747,6 +3753,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-01-13 00:24:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-12-02 23:13:58 +0100"
@@ -3804,6 +3816,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/sandstone": {
     "criteria": {
       "has_stairs": "2021-12-28 20:49:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2022-01-13 00:04:07 +0100"
     },
     "done": true
   },
@@ -3872,6 +3890,7 @@
     "criteria": {
       "cooked_porkchop": "2021-12-02 22:24:07 +0100",
       "cooked_mutton": "2021-12-02 22:25:13 +0100",
+      "sweet_berries": "2022-01-13 00:29:26 +0100",
       "cooked_beef": "2021-12-02 22:45:44 +0100",
       "baked_potato": "2022-01-02 23:30:39 +0100",
       "porkchop": "2022-01-01 23:04:44 +0100",
@@ -4150,6 +4169,12 @@
     "criteria": {
       "has_block": "2021-12-28 20:49:31 +0100",
       "has_slab": "2021-12-28 20:49:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-01-12 23:55:59 +0100"
     },
     "done": true
   },
