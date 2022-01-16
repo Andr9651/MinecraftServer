@@ -4009,6 +4009,7 @@
       "minecraft:frozen_river": "2021-12-30 15:10:51 +0100",
       "minecraft:birch_forest": "2021-12-30 14:56:44 +0100",
       "minecraft:windswept_hills": "2022-01-13 00:13:48 +0100",
+      "minecraft:bamboo_jungle": "2022-01-15 23:26:37 +0100",
       "minecraft:savanna_plateau": "2021-12-30 01:38:53 +0100",
       "minecraft:beach": "2021-12-02 21:44:14 +0100",
       "minecraft:dark_forest": "2021-12-02 23:02:31 +0100",
@@ -4028,11 +4029,13 @@
       "minecraft:deep_cold_ocean": "2021-12-12 00:02:02 +0100",
       "minecraft:ice_spikes": "2022-01-13 00:03:34 +0100",
       "minecraft:frozen_ocean": "2021-12-30 15:04:15 +0100",
+      "minecraft:desert": "2022-01-15 23:25:52 +0100",
       "minecraft:deep_frozen_ocean": "2021-12-30 15:08:30 +0100",
       "minecraft:ocean": "2021-12-11 23:59:09 +0100",
       "minecraft:jungle": "2021-12-30 14:30:19 +0100",
       "minecraft:old_growth_spruce_taiga": "2022-01-13 00:08:31 +0100",
       "minecraft:snowy_beach": "2021-12-30 15:09:46 +0100",
+      "minecraft:warm_ocean": "2022-01-15 23:34:40 +0100",
       "minecraft:deep_lukewarm_ocean": "2021-12-30 14:34:02 +0100",
       "minecraft:frozen_peaks": "2022-01-13 01:03:34 +0100",
       "minecraft:old_growth_birch_forest": "2021-12-02 22:24:49 +0100",
@@ -4190,6 +4193,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-12-11 22:37:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-01-15 23:27:26 +0100"
     },
     "done": true
   },
@@ -4557,6 +4566,7 @@
       "cookie": "2021-12-11 22:51:35 +0100",
       "glow_berries": "2021-12-02 22:44:00 +0100",
       "melon_slice": "2021-12-30 15:17:21 +0100",
+      "golden_carrot": "2022-01-15 23:35:36 +0100",
       "cooked_chicken": "2022-01-05 00:29:56 +0100",
       "cooked_salmon": "2021-12-12 00:56:17 +0100",
       "carrot": "2021-12-24 11:46:36 +0100"
@@ -5119,6 +5129,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2021-12-24 14:00:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-01-15 23:27:26 +0100"
     },
     "done": true
   },

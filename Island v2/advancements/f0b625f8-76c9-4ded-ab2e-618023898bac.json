@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-01-16 01:23:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-12-09 00:23:57 +0100"
@@ -520,6 +526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-01-16 01:23:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-07 23:19:01 +0100"
@@ -571,6 +583,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2022-01-01 23:09:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-01-16 00:50:08 +0100"
     },
     "done": true
   },
@@ -656,6 +674,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2022-01-08 02:27:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-01-16 00:15:55 +0100"
     },
     "done": true
   },
@@ -1124,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-01-16 00:57:16 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/red_sandstone": {
     "criteria": {
       "has_slab": "2021-12-28 20:49:31 +0100"
@@ -1439,6 +1469,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-12-02 23:13:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-01-16 00:57:16 +0100"
     },
     "done": true
   },
@@ -1765,6 +1801,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2021-12-10 23:39:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-01-16 00:15:55 +0100"
     },
     "done": true
   },
@@ -2153,6 +2195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-01-16 00:15:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2021-12-10 23:38:59 +0100"
@@ -2437,6 +2485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-01-16 01:23:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2022-01-08 00:30:14 +0100"
@@ -2551,6 +2605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-01-16 01:26:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-12-02 21:44:29 +0100"
@@ -2584,6 +2644,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2022-01-09 21:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-01-15 21:40:56 +0100"
     },
     "done": true
   },
@@ -4091,6 +4157,7 @@
       "porkchop": "2022-01-01 23:04:44 +0100",
       "apple": "2021-12-08 23:35:41 +0100",
       "potato": "2021-12-13 23:20:13 +0100",
+      "cooked_cod": "2022-01-15 23:46:32 +0100",
       "bread": "2021-12-02 22:58:28 +0100",
       "golden_apple": "2022-01-09 01:25:03 +0100",
       "rotten_flesh": "2021-12-02 23:08:26 +0100",
@@ -4150,6 +4217,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2021-12-08 23:59:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-01-16 00:50:08 +0100"
     },
     "done": true
   },
@@ -4954,6 +5027,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2022-01-13 23:29:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-01-16 01:26:27 +0100"
     },
     "done": true
   },
