@@ -247,6 +247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2022-01-20 20:12:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2021-12-12 00:08:58 +0100"
@@ -1768,6 +1774,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2022-01-20 19:57:26 +0100",
       "minecraft:sheep": "2021-12-30 20:59:24 +0100",
       "minecraft:cow": "2021-12-11 23:20:09 +0100",
       "minecraft:chicken": "2021-12-11 23:19:53 +0100",
@@ -3728,6 +3735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2022-01-20 20:12:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-12-02 22:10:42 +0100"
@@ -3798,6 +3811,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2022-01-13 00:11:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2022-01-20 20:12:40 +0100"
     },
     "done": true
   },
