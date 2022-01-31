@@ -3828,6 +3828,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-01-31 21:41:46 +0100"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/cut_copper": {
     "criteria": {
       "has_slab": "2021-12-28 20:49:26 +0100"
