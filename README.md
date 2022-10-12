@@ -1,4 +1,4 @@
-# Not a Product or Projekt 
+# Not a Product or Project 
 This repository is just a Minecraft Server + Save data, with a small batch-script that makes it easy for my friends and I to play together.
 It allows us to change server host without much hassle.
 
